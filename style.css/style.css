@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    height: 600px;
+    width: 600px;
+    background-image:url("donation.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
